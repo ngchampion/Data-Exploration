@@ -14,16 +14,19 @@ This data was produced by Global Biodeversity Information Facility. According to
 are a not for provide organization funded by multiple world governments that focuses on providing an open source of data 
 about all life on earth from bacteria and protoza to plant life and animal life. 
 
-This data set is interesting to me as a 
-falcon was my favorite animal growing up and now I can find out where in the United States I can go to see different types 
-of falcons in the wild. 
+This data set is interesting to me as a falcon was my favorite animal growing up and now I can find out where in the 
+United States I can go to see different types of falcons in the wild.
 
 
 
 ## Initial Questions
 
-- What initially drew you to this data? 
-- What were you currious about? 
+What initially drew me to this dataset aside from being about an animal that I find to be very cool. A perigrine falcon
+can dive at speeds over 150 miles per hour. It will also be interesting to find out if any particular species of falcon 
+is becoming endangered. If they migrate like other birds, or if their natural environment is being impacted by 
+industrialization or any other human induced issue. 
+
+What questions I would specifically like to answer with this dataset are: 
 
     QUESTION 1
     QUESTION 2
@@ -45,4 +48,4 @@ Final summary of the data and what you found during this project.
 ## Sources
 
 
-[Dataset Source](https://www.gbif.org/occurrence/download/0150218-210914110416597)
+GBIF.org (22 February 2022) GBIF Occurrence Download  [https://doi.org/10.15468/dl.krukq3](https://doi.org/10.15468/dl.krukq3)
