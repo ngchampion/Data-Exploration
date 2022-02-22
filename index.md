@@ -1,4 +1,4 @@
-# Title
+# Exploration of Falcons within the United States
 ### Name
 
 ## Introduction
@@ -8,10 +8,17 @@
 
 ## Dataset
 
-Describe your data set, including a link to the data. 
-- What is this data about?
-- Who collected or produced this dataset? Why?
-- Why are you interested in it?
+This dataset is focused on cataloging the observances of multiple species of falcons within the United States. 
+
+This data was produced by Global Biodeversity Information Facility. According to the GBIF website, www.GBIF.org
+are a not for provide organization funded by multiple world governments that focuses on providing an open source of data 
+about all life on earth from bacteria and protoza to plant life and animal life. 
+
+This data set is interesting to me as a 
+falcon was my favorite animal growing up and now I can find out where in the United States I can go to see different types 
+of falcons in the wild. 
+
+
 
 ## Initial Questions
 
