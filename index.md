@@ -49,3 +49,4 @@ Final summary of the data and what you found during this project.
 
 
 GBIF.org (22 February 2022) GBIF Occurrence Download  [https://doi.org/10.15468/dl.krukq3](https://doi.org/10.15468/dl.krukq3)
+Encyclopedia Brittanica [Peregrine Falcon Info](https://www.britannica.com/animal/peregrine-falcon)
