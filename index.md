@@ -1,4 +1,4 @@
-Title
+#
 # Exploration of Falcons within the United States
 ### Nathaniel Champion
 
@@ -21,7 +21,6 @@ This data set is interesting to me as a falcon was my favorite animal growing up
 United States I can go to see different types of falcons in the wild.
 
 
-
 ## Initial Questions
 
 What initially drew me to this dataset aside from being about an animal that I find to be very cool. A perigrine falcon
@@ -29,11 +28,12 @@ can dive at speeds over 150 miles per hour. It will also be interesting to find 
 is becoming endangered. If they migrate like other birds, or if their natural environment is being impacted by 
 industrialization or any other human induced issue. 
 
-What questions I would specifically like to answer with this dataset are: 
+The questions I would specifically like to answer with this dataset are: 
 
-    QUESTION 1
-    QUESTION 2
-    QUESTION 3
+    Where in the United States do falcons live?
+    Is the falcon population in the United States increasing, decreasing or maintaining?
+    Are falcons negatively impacted by humans? 
+    Do falcon migrate?
   
 - What questions came up as you worked with the data? 
 - Was there anything that surprised you about the data?
