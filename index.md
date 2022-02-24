@@ -1,5 +1,6 @@
+Title Data Exploration
 # Exploration of Falcons within the United States
-### Name
+### Nathaniel Champion
 
 ## Introduction
 
