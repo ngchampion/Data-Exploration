@@ -1,4 +1,4 @@
-# 
+# <p> </p>
 # Exploration of Falcons within the United States
 ### Nathaniel Champion
 
@@ -48,15 +48,25 @@ before use. Another reason this is great is due to the shear size of the data se
 
 ## Discoveries & Insights
 
-Images should be large and easy to see and interperate. 
-Captions underneath should be 20-70 words long.
+![Image](/Map_USA.png)
+As you can see from the above image there is a extremely large population of falcons throughout the United States. 
+Each color representing a different species of falcon. 
+
+![Image](/Line_Graph_Month.png)
+To further support this assertion of population growth this visualization shows a generally positive trend of 3 of 
+the 5 falcon species types in the United States. 
+
+![Image](/Falcon_Occurances_by_Species.png)
+In this graph we can see that not only is there a general increase in the number of falcon sightsing each year but
+those sightings go noticably higher in the Fall. I suspect that this increase is a result of the migratory nature
+of some of the falcons which cause them to be observed and logged mulitple times due to them traveling through 
+multiple areas. 
 
 ![Image](/Dot_Graph.png)
-![Image](/Falcon_Occurances_5year.png)
-![Image](/Falcon_Occurances_by_Species.png)
-![Image](/Line_Graph_Month.png)
+
+
 ![Image](/Map_Maryland.png)
-![Image](/Map_USA.png)
+![Image](/Falcon_Occurances_5year.png)
 
 ## Conclusion
 
