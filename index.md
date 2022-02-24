@@ -41,6 +41,8 @@ What questions I would specifically like to answer with this dataset are:
 Images should be large and easy to see and interperate. 
 Captions underneath should be 20-70 words long.
 
+![Image](/Dot_Graph.png)
+
 ## Conclusion
 
 Final summary of the data and what you found during this project.
