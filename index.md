@@ -49,10 +49,12 @@ before use. Another reason this is great is due to the shear size of the data se
 ## Discoveries & Insights
 
 ![Image](/Map_USA.png)
+
 As you can see from the above image there is a extremely large population of falcons throughout the United States. 
 Each color representing a different species of falcon. 
 
 ![Image](/Line_Graph_Month.png)
+
 To further support this assertion of population growth this visualization shows a generally positive trend of 3 of 
 the 5 falcon species types in the United States. 
 
@@ -62,17 +64,20 @@ this data may be attributed to an increased number of observers in the more rece
 more sighting in the 2014-2019 period over 2000-2004 cannot be a result of only that. 
 
 ![Image](/Falcon_Occurances_by_Species.png)
+
 In this graph we can see that not only is there a general increase in the number of falcon sightsing each year but
 those sightings go noticably higher in the Fall. I suspect that this increase is a result of the migratory nature
 of some of the falcons which cause them to be observed and logged mulitple times due to them traveling through 
 multiple areas. 
 
 ![Image](/Map_Maryland.png)
+
 In this graph we can see a visual representation of the migratory nature of the Falco columbarius species of falcon.
 This particular species with a few exceptions seems to leave the state of Maryland in the Summer months of June and 
 July. 
 
 ![Image](/Dot_Graph.png)
+
 Finally, this extremely unique graph shows all of the hawkstands and other observation points observers log sightings
 of falcons from. The bigger the circle the more observations made at that location. 
 
