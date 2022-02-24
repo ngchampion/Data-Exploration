@@ -47,41 +47,41 @@ The data provided by GBIF.org is very nice in that it is uniform in nature and r
 before use. Another reason this is great is due to the sheer size of the data set. 
 
 ## Discoveries & Insights
-
+&nbsp;&nbsp;
 ![Image](/Map_USA.png)
-
+&nbsp;&nbsp;
 As you can see from the above image there is a extremely large population of falcons throughout the United States. 
 Each color representing a different species of falcon. 
-
+&nbsp;&nbsp;
 ![Image](/Line_Graph_Month.png)
-
+&nbsp;&nbsp;
 To further support this assertion of population growth this visualization shows a generally positive trend of 3 of 
 the 5 falcon species types in the United States. 
-
+&nbsp;&nbsp;
 ![Image](/Falcon_Occurances_5year.png)
+&nbsp;&nbsp;
 Another type of graph that supports the explosive population growth of the falcons in the US is this one. Some of 
 this data may be attributed to an increased number of observers in the more recent years but more than 1 million 
 more sighting in the 2014-2019 period over 2000-2004 cannot be a result of only that. 
-
+&nbsp;&nbsp;
 ![Image](/Falcon_Occurances_by_Species.png)
-
+&nbsp;&nbsp;
 In this graph we can see that not only is there a general increase in the number of falcon sightings each year but
 those sightings go noticeably higher in the Fall. I suspect that this increase is a result of the migratory nature
 of some of the falcons which cause them to be observed and logged multiple times due to them traveling through 
 multiple areas. 
-
+&nbsp;&nbsp;
 ![Image](/Map_Maryland.png)
-
+&nbsp;&nbsp;
 In this graph we can see a visual representation of the migratory nature of the Falco columbarius species of falcon.
 This particular species with a few exceptions seems to leave the state of Maryland in the Summer months of June and 
 July. 
-
-![Image](/Dot_Graph.png)
-
+&nbsp;&nbsp;
+![Image](/Dot_Graph.png){: align="center"}
+&nbsp;&nbsp;
 Finally, this extremely unique graph shows all of the hawk stands and other observation points observers log sightings
 of falcons from. The bigger the circle the more observations made at that location. 
-
-
+&nbsp;&nbsp;
 ## Conclusion
 
 In conclusion, unlike some other species on the Earth falcons seem to be on the rise and are largely unaffected by 
