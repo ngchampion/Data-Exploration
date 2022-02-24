@@ -1,4 +1,4 @@
-# <p> </p>
+<p> </p>
 # Exploration of Falcons within the United States
 ### Nathaniel Champion
 
@@ -56,21 +56,33 @@ Each color representing a different species of falcon.
 To further support this assertion of population growth this visualization shows a generally positive trend of 3 of 
 the 5 falcon species types in the United States. 
 
+![Image](/Falcon_Occurances_5year.png)
+Another type of graph that supports the explosive population growth of the falcons in the US is this one. Some of 
+this data may be attributed to an increased number of observers in the more recent years but more than 1 million 
+more sighting in the 2014-2019 period over 2000-2004 cannot be a result of only that. 
+
 ![Image](/Falcon_Occurances_by_Species.png)
 In this graph we can see that not only is there a general increase in the number of falcon sightsing each year but
 those sightings go noticably higher in the Fall. I suspect that this increase is a result of the migratory nature
 of some of the falcons which cause them to be observed and logged mulitple times due to them traveling through 
 multiple areas. 
 
-![Image](/Dot_Graph.png)
-
-
 ![Image](/Map_Maryland.png)
-![Image](/Falcon_Occurances_5year.png)
+In this graph we can see a visual representation of the migratory nature of the Falco columbarius species of falcon.
+This particular species with a few exceptions seems to leave the state of Maryland in the Summer months of June and 
+July. 
+
+![Image](/Dot_Graph.png)
+Finally, this extremely unique graph shows all of the hawkstands and other observation points observers log sightings
+of falcons from. The bigger the circle the more observations made at that location. 
+
 
 ## Conclusion
 
-Final summary of the data and what you found during this project.
+In conclusion, unlike some other species on the Earth falcons seem to be on the rise and are largely unaffected by 
+the impact humans have had on their environment. They are abundant enough that they can be found in virtually every
+biome in every state of the United States even in Alaska. I learned quite a bit about the current status of falcons
+due to this data set and I hope I have shared some of that with you. 
 
 ## Sources
 
