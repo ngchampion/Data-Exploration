@@ -42,6 +42,11 @@ Images should be large and easy to see and interperate.
 Captions underneath should be 20-70 words long.
 
 ![Image](/Dot_Graph.png)
+![Image](/Falcon_Occurances_5year.png)
+![Image](/Falcon_Occurances_by_Species.png)
+![Image](/Line_Graph_Month.png)
+![Image](/Map_Maryland.png)
+![Image](/Map_USA.png)
 
 ## Conclusion
 
