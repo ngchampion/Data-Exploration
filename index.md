@@ -1,4 +1,4 @@
-#
+# 
 # Exploration of Falcons within the United States
 ### Nathaniel Champion
 
@@ -34,10 +34,17 @@ The questions I would specifically like to answer with this dataset are:
     Is the falcon population in the United States increasing, decreasing or maintaining?
     Are falcons negatively impacted by humans? 
     Do falcon migrate?
-  
-- What questions came up as you worked with the data? 
-- Was there anything that surprised you about the data?
-- Was it easy to work with or did you have to clean or "wrangle" the data?
+
+It never occurred to me that a bird of prey could be migratory until I started working the data set. With further 
+research and looking through the data I've found that they can be but it depends on the bird and region not every
+falcon within a species will be migratory. 
+
+Another interesting fact I learned from Encyclopedia Brittanica is that falcon populations were hugely impacted 
+after WWII. The suspected cause was pesticide infecting their food source. My data only goes back 20 years but 
+matches the assertion that population numbers are rising and quickly. 
+
+The data provided by GBIF.org is very nice in that it is uniform in nature and requires little if any modification
+before use. Another reason this is great is due to the shear size of the data set. 
 
 ## Discoveries & Insights
 
