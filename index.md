@@ -37,7 +37,7 @@ The questions I would specifically like to answer with this dataset are:
 
 It never occurred to me that a bird of prey could be migratory until I started working the data set. With further 
 research and looking through the data I've found that they can be, but it depends on the bird and region not every
-falcon within a species will be migratory. 
+falcon within a species will be migratory.  
 
 Another interesting fact I learned from Encyclopedia Britannica is that falcon populations were hugely impacted 
 after WWII. The suspected cause was pesticide infecting their food source. My data only goes back 20 years but 
