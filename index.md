@@ -1,11 +1,13 @@
-
+Title
 # Exploration of Falcons within the United States
 ### Nathaniel Champion
 
 ## Introduction
 
-- What is the core discovery you made, the most interesting thing that you can describe with this data? 
-- What will your supporting arguments be for your discovery?
+The most interesting discovery I made since reviewing this dataset was just how prevalent falcons are in the United
+States. It is also interesting to me about just how many different species of falcon there are, how some seem to be
+migratory and they make their homes in almost any major biome inclduing Alaskan tundra. Finally, falcons as a species
+seem almost entirely unaffected by the human impact on the environment. 
 
 ## Dataset
 
