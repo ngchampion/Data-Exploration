@@ -77,7 +77,7 @@ In this graph we can see a visual representation of the migratory nature of the 
 This particular species with a few exceptions seems to leave the state of Maryland in the Summer months of June and 
 July. 
 <br/><br/><br/><br/>
-![Image](/Dot_Graph.png){: align="center"}
+![Image](/Dot_Graph.png)
 <br/><br/><br/><br/>
 Finally, this extremely unique graph shows all of the hawk stands and other observation points observers log sightings
 of falcons from. The bigger the circle the more observations made at that location. 
